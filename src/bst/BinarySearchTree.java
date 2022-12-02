@@ -1,3 +1,6 @@
+
+// group: Sanjana Nagwekar and Jacob Kavanal
+
 package bst;
 
 import java.util.Stack;
