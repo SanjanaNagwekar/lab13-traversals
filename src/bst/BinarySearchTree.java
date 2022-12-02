@@ -188,6 +188,7 @@ public class BinarySearchTree<T extends Comparable<T>> {
 			
 			curr = curr.rightChild;
 		}
+		System.out.println();
 		
 	}
 	
